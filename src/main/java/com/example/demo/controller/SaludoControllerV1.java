@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class SaludoControllerV1 {
     @GetMapping("/saludo")
     public String saludo() {
-        return "Hola desde la versión 1.0.0 de la API";
+        return "Hola desde la versión 1.1.1 de la API, ahora libre de bugs";
     }
         @PostMapping
     public String despedida(){
