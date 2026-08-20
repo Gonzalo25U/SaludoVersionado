@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SaludoControllerV1
+jwt:
+  secret: EstaEsUnaClaveSuperSeguraDe32Caracteres123!
